@@ -1,4 +1,7 @@
-### Hi there 👋
+# Kim Yevin
+# Ewha Womans University _ Computer Engineering 20 🌱
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dande_lion)](https://solved.ac/dande_lion)
 
 <!--
 **Yevin-WIN/Yevin-WIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
