@@ -1,5 +1,5 @@
 # Kim Yevin
-# Ewha Womans University _ Computer Engineering 20 🌱
+# Ewha Womans University _ Computer Science & Engineering 20
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dande_lion)](https://solved.ac/dande_lion)
 
