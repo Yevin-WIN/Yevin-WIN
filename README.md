@@ -1,10 +1,8 @@
-# Kim Yevin
-# Ewha Womans University
--> [Major] Computer Science & Engineering 20
-
-
-
 # 👋 안녕하세요, Kim Yevin 입니다!
+
+🎓 **이화여자대학교 (Ewha Womans University)**  
+- 전공: 컴퓨터공학과 (20학번)  
+- 복수전공: 소비자학과  
 
 📌 **컴퓨터공학 기반 풀스택 개발자 지망생**  
 🚀 꾸준한 학습과 다양한 프로젝트 경험으로 성장 중  
@@ -24,8 +22,8 @@
 
 ## 📚 알고리즘 & 문제해결 역량
 
-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dande_lion)](https://solved.ac/dande_lion)
-- C++, Java 중심 풀이
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dande_lion)](https://solved.ac/dande_lion)  
+- C++, Java 중심 풀이  
 - 자료구조, 그래프, 탐색 문제 위주 꾸준한 풀이  
 - 효율적인 문제 해결 능력 및 코딩 역량 강화 중  
 
@@ -66,9 +64,8 @@
 ## 📫 연락 및 더 알아보기
 
 - GitHub: https://github.com/Yevin-WIN  
-- 이메일: kimyevin17@gmail.com
+- 이메일: kimyevin17@gmail.com  
 
 ---
 
 > 꾸준히 배우고 성장하는 풀스택 개발자가 되겠습니다!
-
