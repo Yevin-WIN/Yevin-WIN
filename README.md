@@ -69,5 +69,3 @@
 ---
 
 > 꾸준히 배우고 성장하는 풀스택 개발자가 되겠습니다!
-
-![Yevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yevin-WIN&show_icons=true&theme=tokyonight)
