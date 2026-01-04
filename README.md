@@ -49,7 +49,7 @@
 
 ## 📂 Other Projects
 
-### 🎁 [Blockchain Donation Platform] 이화여대 졸업 프로젝트 (2024)
+### 🎁 [Blockchain Donation Platform] 이화여대 졸업 프로젝트 (2023)
 > **Role: Full Stack & Smart Contract**
 > [GitHub Repository 바로가기](https://github.com/EWHA-COYD/FinalCode)
 
